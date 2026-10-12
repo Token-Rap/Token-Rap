@@ -3,7 +3,7 @@
   AI-native tooling · Robot learning · Unreal Engine gameplay · Motion-capture data pipelines
 </p>
 <p align="center">
-  <a href="https://ziton.vercel.app"><img src="https://img.shields.io/badge/Portfolio_&_Blog-ziton.vercel.app-000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://ziton.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ziton.vercel.app-000?style=for-the-badge&logo=vercel" /></a>
   <a href="https://github.com/alertform?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
