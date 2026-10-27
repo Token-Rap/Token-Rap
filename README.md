@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://ziton.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ziton.vercel.app-000?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://github.com/alertform?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Token-Rap?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 I build agents, retrieval systems and model fine-tunes, plus UE gameplay and the motion-capture data plumbing behind them. Everything here is a personal project, built end to end.
